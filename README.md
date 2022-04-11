@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on Android Projects
-- 📫 How to reach me: Twitter - @PrathameshK_69
+- 📫 How to reach me: [Twitter - @PrathameshK_69](https://twitter.com/PrathameshK_69)
 
  
