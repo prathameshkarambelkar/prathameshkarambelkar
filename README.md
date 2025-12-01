@@ -60,7 +60,7 @@ Visit my [blog](https://blogs.prathameshk.com) for articles on mobile developmen
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-📧 Email: dev@prathameshk.com
+📧 Email: pkarambelkar.2002@gmail.com
 
 <div align="center">
 
