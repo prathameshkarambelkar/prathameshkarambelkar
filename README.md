@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Prathamesh Karambelkar
+# Hey there! 👋 I'm Prathamesh 
 
 <div align="center">
   
