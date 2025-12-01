@@ -46,8 +46,6 @@ An iOS-only module that exposes beginBackgroundTask and endBackgroundTask to Jav
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathameshkarambelkar&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshkarambelkar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 </div>
 
 
