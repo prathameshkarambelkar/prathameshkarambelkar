@@ -30,7 +30,8 @@ const prathamesh = {
 ## 📦 Open Source Contributions
 
 ### [expo-ios-background-task](https://www.npmjs.com/package/expo-ios-background-task)
-A React Native package enabling background task execution on iOS devices. Published on npm to help the developer community tackle iOS background processing challenges.
+I try to solve problems using tech. I'm curious and enjoy discussing new technologies.
+I have experience in building robust, and production-quality software.
 
 [![npm version](https://img.shields.io/npm/v/expo-ios-background-task?style=flat-square)](https://www.npmjs.com/package/expo-ios-background-task)
 [![npm downloads](https://img.shields.io/npm/dm/expo-ios-background-task?style=flat-square)](https://www.npmjs.com/package/expo-ios-background-task)
