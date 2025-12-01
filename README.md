@@ -4,7 +4,8 @@
   
 ### Full-Stack Mobile Developer | Open Source Contributor
 
-Building robust mobile and web applications • Solving real-world problems with code
+I try to solve problems using tech. I'm curious and enjoy discussing new technologies.
+I have experience in building robust, and production-quality software.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prathameshk.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamesh-karambelkar-1161b71aa)
@@ -30,8 +31,8 @@ const prathamesh = {
 ## 📦 Open Source Contributions
 
 ### [expo-ios-background-task](https://www.npmjs.com/package/expo-ios-background-task)
-I try to solve problems using tech. I'm curious and enjoy discussing new technologies.
-I have experience in building robust, and production-quality software.
+An iOS-only module that exposes beginBackgroundTask and endBackgroundTask to JavaScript, enabling short, system-approved background execution time for finishing important work.
+
 
 [![npm version](https://img.shields.io/npm/v/expo-ios-background-task?style=flat-square)](https://www.npmjs.com/package/expo-ios-background-task)
 [![npm downloads](https://img.shields.io/npm/dm/expo-ios-background-task?style=flat-square)](https://www.npmjs.com/package/expo-ios-background-task)
